@@ -2,7 +2,7 @@ package Constants;
 
 public class Constants {
 
-    public static void main(String[] Args){
+    public static void main(String[] Args) {
         /*
         Константы в Java: https://vertex-academy.com/tutorials/ru/konstanty-v-java/
          */

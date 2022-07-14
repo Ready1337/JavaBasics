@@ -2,7 +2,7 @@ package Comments;
 
 public class Comments {
 
-    public static void main(String[] Args){
+    public static void main(String[] Args) {
         /*
         Комментарии: https://vertex-academy.com/tutorials/ru/kak-delat-kommentarii-v-kode/
 
