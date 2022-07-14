@@ -3,6 +3,7 @@ package IfAndSwitch;
 import java.util.Scanner;
 
 public class Task4 {
+
     public static void main(String[] Args) {
         System.out.println("Введите 1, 2, 3 или 4");
 
