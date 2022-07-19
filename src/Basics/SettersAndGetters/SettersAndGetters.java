@@ -1,7 +1,5 @@
 package Basics.SettersAndGetters;
 
-import Basics.SettersAndGetters.ClassWithSettersAndGetters;
-
 public class SettersAndGetters {
     /*
     Сеттеры и геттеры в Java: https://vertex-academy.com/tutorials/ru/gettery-i-settery/

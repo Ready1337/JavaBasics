@@ -1,6 +1,4 @@
 package Basics.Classes;
-
-import Basics.Classes.Classes;
 public class Classes {
 
     public static void main(String[] Args) {
