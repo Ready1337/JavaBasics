@@ -1,6 +1,7 @@
 package Basics.Inheritance;
 
-public class Example extends SuperExample {
+//this class cannot be inherited: final
+final public class Example extends SuperExample {
 
     public Example(String additionalString) {
         super();
