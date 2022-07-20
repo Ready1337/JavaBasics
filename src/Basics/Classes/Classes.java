@@ -8,6 +8,6 @@ public class Classes {
 
         ExampleClass objectOfExampleClass = new ExampleClass();
 
-        System.out.println(objectOfExampleClass.exampleStringField);
+        System.out.println(objectOfExampleClass.publicField);
     }
 }
