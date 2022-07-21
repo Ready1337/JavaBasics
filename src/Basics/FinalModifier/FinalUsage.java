@@ -1,7 +1,7 @@
 package Basics.FinalModifier;
 
 public class FinalUsage {
-    //Cannot be changed dut to final
+    //Cannot be changed due to final
     final private int finalNumber = 10;
 
     //Look on FinalClass definition
